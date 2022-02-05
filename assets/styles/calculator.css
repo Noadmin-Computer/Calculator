@@ -2,11 +2,7 @@ body{
     background-color: #141313;
     overflow: hidden;
 }
-h1{
-    position: absolute ;
-    text-align: center;
-    color: #fff;
-}
+
 .grid-container {
     display: grid;
     grid-auto-rows: 5px;
